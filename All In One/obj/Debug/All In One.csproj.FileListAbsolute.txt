@@ -25,3 +25,12 @@ D:\All In One\All In One\obj\Debug\All In One.csprojResolveAssemblyReference.cac
 D:\All In One\All In One\obj\Debug\All_In_One.Form1.resources
 D:\All In One\All In One\obj\Debug\All_In_One.Properties.Resources.resources
 D:\All In One\All In One\obj\Debug\All In One.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\AllInOne\All In One\bin\Debug\All In One.exe.config
+C:\Users\user\Documents\GitHub\AllInOne\All In One\obj\Debug\All In One.exe
+C:\Users\user\Documents\GitHub\AllInOne\All In One\obj\Debug\All In One.pdb
+C:\Users\user\Documents\GitHub\AllInOne\All In One\bin\Debug\All In One.exe
+C:\Users\user\Documents\GitHub\AllInOne\All In One\bin\Debug\All In One.pdb
+C:\Users\user\Documents\GitHub\AllInOne\All In One\obj\Debug\All In One.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\AllInOne\All In One\obj\Debug\All_In_One.GUI.resources
+C:\Users\user\Documents\GitHub\AllInOne\All In One\obj\Debug\All_In_One.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\AllInOne\All In One\obj\Debug\All In One.csproj.GenerateResource.Cache

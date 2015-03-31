@@ -10,13 +10,13 @@ using System.Windows.Forms;
 
 namespace All_In_One
 {
-    public partial class Form1 : Form
+    public partial class GUI : Form
     {
         string dirFromFC;// fc stands for file changer
         string dirToFC;
         string searchFC;
         
-        public Form1()
+        public GUI()
         {
             InitializeComponent();
         }
